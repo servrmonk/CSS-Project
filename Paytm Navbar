@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paytm</title>
+    <style>
+        *{
+            margin: 0px;
+            padding: 0px;
+        }
+        .main{
+            /* border: 1px solid black; */
+            /* padding: 0 10%; */
+            background-color: #2f9bf4;
+            color: white;
+            padding: 30px 0px;
+
+        }
+        .main>div {
+            /* border: 1px solid red; */
+            display: flex;
+            width: 80%;
+            margin: auto;
+        }
+        .main>div>div{
+            width: 6%;
+            /* border: 1px solid green; */
+            margin-left: 7.3%;
+        }
+        .main>div>div:hover{
+            background-color: #90caf9;
+
+        }
+        .main>div>div:nth-child(1){
+            margin-left: 0px;
+        }
+        .main>div>div>img{
+            width: 100%;
+        }
+        .main>div>div>p{
+            text-align: center;
+        }
+        h1{
+            /* text-align: center; */
+        padding-left: 10%;
+        }
+
+        .main:nth-child(2){
+            background-color: #3f51b5;
+            
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="main">
+        <h1>Recharge & Paybills on Paytm</h1>
+        <!-- Display flex will be in this div -->
+        <div>
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="main">
+        <h1>Recharge & Paybills on Paytm</h1>
+        <!-- Display flex will be in this div -->
+        <div>
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+            <div>
+                <img src="https://assetscdn1.paytm.com/images/catalog/view_item/733299/1626251017535.png"
+                    alt="paytm image">
+                <p>Recharge Prepaid Mobile</p>
+            </div>
+            
+        </div>
+    </div>
+
+</body>
+
+</html>
+
+<!-- material.io website hai colr k lie -->
